@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:10:1-59:12
+	package
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:11:5-32
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:10:11-69
+	android:versionCode
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:16:22-76
+application
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:19:5-56:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:20:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:26:9-28:52
+	android:value
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:27:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:29:9-31:56
+	android:value
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:31:13-53
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:30:13-48
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:33:9-34:69
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:34:13-66
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:33:20-65
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:37:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:42:27-74
+activity#com.parse.starter.ShowListUsers
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:46:9-54:20
+	android:label
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:47:13-42
+intent-filter#android.intent.category.DEFAULT+com.parse.starter.SHOWLISTUSERS
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:49:13-53:29
+action#com.parse.starter.SHOWLISTUSERS
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:50:17-74
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:50:25-71
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml:52:27-73
+uses-sdk
+INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pepo\Desktop\Parse-Starter-Project-1.11.0\Parse-Starter-Project-1.11.0\src\main\AndroidManifest.xml

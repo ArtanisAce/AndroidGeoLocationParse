@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\res\\merged\\release\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Pepo\\Desktop\\Parse-Starter-Project-1.11.0\\Parse-Starter-Project-1.11.0\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services\\6.5.87\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    }
+]
